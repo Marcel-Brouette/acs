@@ -1,6 +1,6 @@
 ## Autocomplete Cheat Sheets 
 
-acs is a fork of [https://raw.githubusercontent.com/cheat/cheat/cheat-python](https://raw.githubusercontent.com/cheat/cheat/cheat-python) which add the autocompletion feature
+acs is a fork of [https://github.com/cheat/cheat/tree/cheat-python](https://github.com/cheat/cheat/tree/cheat-python) which add the autocompletion feature
 
 ### Principe of Cheat 
 `cheat` allows you to create and view interactive cheatsheets on the
@@ -46,6 +46,9 @@ remember.
         acs  -l          List cheatsheets and paths
         acs  -s KEYWORD  Search for <keyword> in cheatsheets content.
 
+## Import a list of cheat sheets :
 
+You can download this big list of cheatsheets : [https://github.com/cheat/cheat/tree/cheat-python/cheat/cheatsheets](https://github.com/cheat/cheat/tree/cheat-python/cheat/cheatsheets)
 
+and put it in your `~/.acs/` folder
 
